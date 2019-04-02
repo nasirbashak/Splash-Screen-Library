@@ -28,7 +28,7 @@ public class Splash extends AppCompatActivity {
         this.layout = layout;
 
 
-
+    onCreate();
 
     }
 
